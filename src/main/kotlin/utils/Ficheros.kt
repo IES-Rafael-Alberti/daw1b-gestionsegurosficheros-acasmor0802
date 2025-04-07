@@ -1,6 +1,7 @@
 package org.example.utils
 
 import org.example.model.IExportable
+import org.example.ui.IEntradaSalida
 import java.io.File
 import java.io.IOException
 
